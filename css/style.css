@@ -43,7 +43,8 @@ img {
 
 .superinfo p, .superinfo a {
     margin: 0 10px 10px 10px;
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: 'Montserrat', Arial, sans-serif;
+    font-weight: 400;
 }
 
 .superinfo a {
@@ -85,6 +86,7 @@ img {
     font-size: 1.10em;
     display: block;
     padding: 10px;
+    font-weight: 500;
 }
 
 .menu-nav a:hover {
@@ -96,7 +98,8 @@ img {
 .introducao {
     max-width: 960px;
     margin: 0 auto;
-    font-size: 3em;
+    font-size: 2.2em;
+    font-weight: 800;
     line-height: 1;
     padding: 60px 10px;
 }
@@ -119,7 +122,8 @@ img {
 }
 
 .sobre-info h1 {
-    font-size: 3em;
+    font-size: 2.2em;
+    font-weight: 800;
     margin-bottom: 0.5em;
 }
 
@@ -128,7 +132,7 @@ img {
     line-height: 1.4;
     margin-bottom: 1em;
     color: #414141;
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: 'Montserrat', Arial, sans-serif;
     
 }
 
@@ -147,7 +151,8 @@ img {
 }
 
 .produtos h1 {
-    font-size: 3em;
+    font-size: 2.2em;
+    font-weight: 800;
     margin: 0 10px 60px 10px;
 }
 .produtos-container {
@@ -162,7 +167,7 @@ img {
 }
 
 .produtos-item h2 {
-    font-size: 2.5em;
+    font-size: 2em;
     color: #707070;
     padding:60px 20px;
     background:#f7f7f7;
@@ -204,7 +209,7 @@ img {
 }
 
 .preco-item span {
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: 'Montserrat', Arial, sans-serif;
     max-width: 300px;
     margin: 20px auto;
     display: block;
@@ -221,7 +226,7 @@ img {
 }
 
 .preco-item ul {
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: 'Montserrat', Arial, sans-serif;
     max-width: 300px;
     margin:20px auto;
     font-size: 1em;
@@ -317,7 +322,7 @@ img {
 }
 
 .qualidade-item p {
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: 'Montserrat', Arial, sans-serif;
     line-height: 1.4;
     color: #7c7c7c;
 }
@@ -338,7 +343,8 @@ img {
 }
 
 .newslatter-info h1 {
-    font-size: 3em;
+    font-size: 2.2em;
+    font-weight: 800;
 }
 
 .newslatter-info p {
@@ -356,7 +362,7 @@ img {
 .newslatter-form input {
     flex: 3 1 200px;
     font-size: 1em;
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: 'Montserrat', Arial, sans-serif;
     border: 3px solid #0A63D7;
     background: rgba(255, 255, 255, 0.89);
     padding: 10px;
@@ -367,7 +373,7 @@ img {
 .newslatter-form button {
     flex: 1 1  200px;
     font-size: 1em;
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: 'Montserrat', Arial, sans-serif;
     background:#0A63D7;
     border: 0px;
     color: #fff;
@@ -390,5 +396,5 @@ img {
     text-align: center;
     color: #fff;
     font-size: 1em;
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: 'Montserrat', Arial, sans-serif;
 }
