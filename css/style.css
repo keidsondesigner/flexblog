@@ -201,6 +201,7 @@ img {
     margin: 10px;
     box-shadow: 0 8px 16px rgb(96 97 113 / 16%);
     border-radius: 16px;
+    background: #fff;
 }
 
 .preco-item h2 {
@@ -219,8 +220,8 @@ img {
     text-align: center;
     font-weight: 700;
     padding: 10px 0 10px 0;
-    border-top: 4px solid #fff;
-    border-bottom: 4px solid #fff;
+    border-top: 4px solid #0A63D7;
+    border-bottom: 4px solid #0A63D7;
 }
 
 .preco-item sup {
