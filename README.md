@@ -1,4 +1,4 @@
-<a href="https://imgur.com/GTTkrsY"><img src="https://i.imgur.com/GTTkrsY.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/ZAjPS5g"><img src="https://i.imgur.com/ZAjPS5g.png" title="source: imgur.com" /></a>
 
 # 📱 Conheça o Flexblog.
 > Projeto de conclusão do Curso CSS Flexbox <br>
