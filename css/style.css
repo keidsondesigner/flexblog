@@ -28,7 +28,7 @@ img {
 
 .superinfo-bg {
     background: #0651B3;
-    color: #fff;
+    
 }
 
 .superinfo {
@@ -45,11 +45,9 @@ img {
     margin: 0 10px 10px 10px;
     font-family: 'Montserrat', Arial, sans-serif;
     font-weight: 400;
-}
-
-.superinfo a {
     color: #fff;
 }
+
 
 /*////////////         MENU         ////////*/
 
@@ -63,18 +61,15 @@ img {
     padding: 15px 0;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-between; /* alinhar no eixo X*/
     align-items: center; /* alinhar no eixo Y*/
-}
-
-.menu a {
-    color: #fff;
 }
 
 .menu-logo a {
     font-size: 2.25em;
     font-weight: 700;
     margin: 0 10px;
+    color: #fff;
 }
 
 .menu-nav ul {
@@ -87,6 +82,7 @@ img {
     display: block;
     padding: 10px;
     font-weight: 500;
+    color: #fff;
 }
 
 .menu-nav a:hover {
@@ -186,7 +182,7 @@ img {
 
 /*////////////         PREÇO DOS PLANOS       ////////*/
 
-.fundo-preco {
+.preco-bg {
     background: #f7f7f7;
 
 }
